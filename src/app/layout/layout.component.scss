@@ -1,0 +1,26 @@
+.info-wrapper{
+  display:flex;
+  justify-content:space-between;
+}
+.about-btn{
+  padding-right: 20px;
+}
+.searching{
+  width: 100%;
+  border-radius:7px;
+  background-color:rgb(223, 223, 245);
+  border:none;
+}
+.profile-pic{
+  width:35px;
+  border-radius:20px;
+  margin-bottom: 2 px;
+}
+.profile-info{
+  padding-right: 10px;
+  display: flex;
+  justify-content : end;
+}
+.container{
+  margin-top: 10px;
+}

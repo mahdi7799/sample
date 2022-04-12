@@ -1,0 +1,40 @@
+.example-small-box, .example-large-box {
+  display: flex;
+
+  margin: 16px;
+  padding: 16px;
+  border-radius: 8px;
+  background-color:white;
+}
+
+
+.example-large-box {
+  height: 170px;
+  background-color:white;
+
+
+}
+.parent{
+  background-color:white;
+  border-radius:10px
+}
+.tweet-profile{
+  width:50px;
+border-radius:25px;
+margin-top: 20px;
+}
+.tweetsWrap{
+  display: flex;
+  justify-content:space-around
+}
+.name{
+  color: gray;
+}
+.p-tweet{
+  margin-left:4px;
+  padding:7px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.pics{
+  width: 40px;
+}
